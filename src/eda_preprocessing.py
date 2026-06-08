@@ -14,4 +14,3 @@ def load_clean_data(path):
     })
 
     return df
-
